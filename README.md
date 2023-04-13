@@ -1,3 +1,14 @@
+# What's the problem?
+
+`msw` doesn't seem to be playing nice with `urql@4.x`. This is a reproducible repository showing this issue. How to reproduce:
+
+1. clone
+2. npm install
+3. npm run storybook
+4. navigate to the "header" story and check the console - **MSW is enabled but the graphql call is not being intercepted**
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
