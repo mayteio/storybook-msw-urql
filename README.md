@@ -7,9 +7,9 @@
 3. npm run storybook
 4. navigate to the "header" story and check the console - **MSW is enabled but the graphql call is not being intercepted**
 
-![Screenshot 2023-04-14 at 9 10 31 am](https://user-images.githubusercontent.com/43975092/231903432-7f3cf66c-ee71-4cef-92ce-0a6d926f8c56.png)
+![Screenshot 2023-04-14 at 9 12 36 am](https://user-images.githubusercontent.com/43975092/231903495-a604ac64-304f-42ea-b4ef-bf20d984c41c.png)
 
-![Screenshot 2023-04-14 at 9 01 53 am](https://user-images.githubusercontent.com/43975092/231903438-26ddec58-9020-4cb1-a249-2ce9e62a2e24.png)
+![Screenshot 2023-04-14 at 9 10 31 am](https://user-images.githubusercontent.com/43975092/231903432-7f3cf66c-ee71-4cef-92ce-0a6d926f8c56.png)
 
 
 ---
